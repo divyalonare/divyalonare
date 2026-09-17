@@ -67,11 +67,6 @@ An event-driven Discord bot with slash commands and role-based user access.
 
 `JavaScript` `Node.js` `Discord.js` `MongoDB` `Mongoose`
 
-## Beyond Code
-
-- NEP Sarthi / UGC Ambassador at G.H. Raisoni University
-- Student Placement Committee Member
-- B.Tech in Computer Science, Class of 2027
 
 ## GitHub Activity
 
